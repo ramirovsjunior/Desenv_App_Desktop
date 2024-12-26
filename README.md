@@ -13,7 +13,8 @@ Este é o repositório para a UC-5, do curso Técnico em Desenvolvimento de Sist
 
 | Tool | Link |
 |------|------|
-| :bomb: ChatGPT | [chat.openai.com](https://chat.openai.com/chat) |
+| TKinter Docs | [tkinter — Python interface to Tcl/Tk](https://docs.python.org/3/library/tkinter.html)
+| ChatGPT | [chat.openai.com](https://chat.openai.com/chat) |
 
 
 ### Aulas
