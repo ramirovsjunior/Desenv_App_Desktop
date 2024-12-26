@@ -14,17 +14,17 @@ Este é o repositório para a UC-5, do curso Técnico em Desenvolvimento de Sist
 | :bomb: ChatGPT | [chat.openai.com](https://chat.openai.com/chat) |
 
 
-### Lessons
+### Aulas
 
-**Week 01**
-- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/lesson_01.pdf) **Course Outline:** Provides an overview of the course structure and topics covered.
-    - 🎯 Week Goals 
-        - Your main goal for this week is to create a personal repository for tracking your progress and coursework.
-        - Feel free to explore these resources and engage with the course material. If you have any questions or need assistance, please don't hesitate to reach out.
-        - Happy coding! 💻🚀
-    -  🎉 GitHub Education Benefits
-        - GitHub Education Pro: Get access to the GitHub Education Pro pack by visiting [GitHub Education](https://education.github.com/pack)
-    - 📖 Learning Resources 
-        - GitHub Learning Game: Check out the interactive Git learning game at [GitHub Learning Game](https://learngitbranching.js.org/)
-        - Basic Python: Enhance your Python skills through the [Kaggle Python course](https://www.kaggle.com/learn/python).
-        - AI Python for Beginners: Learn Python programming fundamentals and how to integrate AI tools for data manipulation, analysis, and visualization. [Andrew Ng](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
+**Semana 01**
+- [![Abrir em PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](link) **Esboço do curso:** Fornece uma visão geral da estrutura do curso e dos tópicos abordados.
+  - 🎯 Metas da semana
+    - Sua principal meta para esta semana é criar um repositório pessoal para monitorar seu progresso e trabalho do curso.
+    - Sinta-se à vontade para explorar esses recursos e se envolver com o material do curso. Se você tiver alguma dúvida ou precisar de ajuda, não hesite em entrar em contato.
+    - Boa codificação! 💻🚀
+  - 🎉 Benefícios do GitHub Education
+      - GitHub Education Pro: Tenha acesso ao pacote GitHub Education Pro visitando [GitHub Education](https://education.github.com/pack)
+  - 📖 Recursos de aprendizagem
+      - GitHub Learning Game: Confira o jogo interativo de aprendizagem do Git em [GitHub Learning Game](https://learngitbranching.js.org/)
+      - Python básico: Melhore suas habilidades em Python por meio do [curso Kaggle Python](https://www.kaggle.com/learn/python).
+      - AI Python para iniciantes: Aprenda os fundamentos da programação Python e como integrar ferramentas de IA para manipulação, análise e visualização de dados. [Andrew Ng](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
