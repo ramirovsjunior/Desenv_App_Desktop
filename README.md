@@ -9,6 +9,7 @@ Este é o repositório para a UC-5, do curso Técnico em Desenvolvimento de Sist
 
 - :books: [Moore, Alan D. Python GUI Programming with Tkinter_Design and build functional and user-friendly GUI applications, 2nd Edition-Packt Publishing 2021](https://tinyurl.com/yfzej4ec)
 - :books: [Jones, Andrew  M. Python GUI Programming with Tkinter_Developing User-Friendly Interfaces with Tkinter in Python-Independently Published (2024)](https://tinyurl.com/5n7w2zy7)
+- :books: [dddd](https://tinyurl.com/2s3rsndm)
 
 | Tool | Link |
 |------|------|
