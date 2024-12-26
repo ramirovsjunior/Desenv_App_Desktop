@@ -7,7 +7,7 @@ Este é o repositório para a UC-5, do curso Técnico em Desenvolvimento de Sist
 
 #### References
 
-- :books: [Sobrenome, Nome. Livro](link)
+- :books: [Alan D. Moore. Python GUI Programming with Tkinter_Design and build functional and user-friendly GUI applications, 2nd Edition-Packt Publishing 2021](link)
 
 | Tool | Link |
 |------|------|
